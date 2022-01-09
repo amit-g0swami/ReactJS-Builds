@@ -1,0 +1,39 @@
+.leftcard__card > h5 {
+    color: #5dab73;
+    width: 16.1875rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
+.leftcard__cardc{
+    flex-direction: column;
+    background-color:#232234;
+    border-radius: 0.625rem;
+    margin-top: 0.5rem;
+}
+.topusers{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  align-items: center; 
+}
+.userinfo{
+    justify-content: center;
+    align-items: center; 
+    display: flex;
+}
+.userprofile > img{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
+.username > span{
+    color: white;
+    margin-left: 0.5rem;
+}
+.topuserscore > h5{
+    color: white;
+}

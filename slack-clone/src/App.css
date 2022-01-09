@@ -1,0 +1,13 @@
+body{
+  --slack-color : #3f0f40 ;
+  overflow: hidden;
+}
+.app__body{
+  display: flex;
+  height: 100vh;
+}
+.app__header{
+  padding: 10px 10px;
+  font-weight: 500;
+  font-size: 25px;
+}
